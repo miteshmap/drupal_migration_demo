@@ -1,7 +1,7 @@
 ---
 # Local Vagrant options.
-vagrant_hostname: drupalcampgoa.local
-vagrant_machine_name: drupalcampgoa
+vagrant_hostname: drupalcamp.local
+vagrant_machine_name: drupalcamp
 vagrant_ip: 192.168.88.22
 
 # Configure the synced folder.
@@ -22,7 +22,7 @@ drupal_composer_dependencies: []
 
 # Minimum required versions.
 drupalvm_vagrant_version_min: '1.8.6'
-drupalvm_ansible_version_min: '2.2'  
+drupalvm_ansible_version_min: '2.2'
 
 # Set this to 'false' if you don't need to install drupal (using the drupal_*
 # settings below), but instead copy down a database (e.g. using drush sql-sync).
