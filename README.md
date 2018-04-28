@@ -15,7 +15,7 @@ for your setup.
 After that clone the repository:
 
 ```
-git clone git@github.com:mohit-rocks/drupalcamp-goa.git
+git clone git@github.com:miteshmap/drupal_migration_demo.git
 ```
 
 Run `composer install` to get drupal core and other required modules.
